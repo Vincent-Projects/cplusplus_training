@@ -16,6 +16,8 @@ I will link the whole ressources i will use.
 -   [How compilation works](https://www.toptal.com/c-plus-plus/c-plus-plus-understanding-compilation)
 -   [C++ and AI](https://www.linuxlinks.com/excellent-c-plus-plus-natural-language-processing-tools/)
 -   [Learn C++](https://www.learncpp.com/)
+-   [Compiler vs Interpreter](https://stackoverflow.com/questions/38491212/difference-between-compiled-and-interpreted-languages/38491646#38491646)
+-   [Makefile](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)
 
 ## Journal
 
