@@ -23,3 +23,4 @@ I will link the whole ressources i will use.
 
 -   [31 Jan. 2021](logs/21-01-31.md)
 -   [01 Feb. 2021](logs/21-02-01.md)
+-   [07 Feb. 2021](logs/21-02-07.md)
