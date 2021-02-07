@@ -4,3 +4,4 @@
 -   constructor vs uniform initialization ?
 -   What is the comma operator ( , ) ?
 -   Understand deeply >> and << ( SHR and SHL ) ?
+-   What does `goto` do ?
